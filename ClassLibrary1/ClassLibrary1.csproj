@@ -1,11 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>[Microsoft](https://learnnmicrosoft.com/ja-jp/dotnet/csharp/roslyn-sdk/source-generators-overview)
-
-		[Microsoft](https://learn.microsoft.com/ja-jp/dotnet/csharp/roslyn-sdk/source-generators-overview)
-	[Microsoft](https://learn.microsoft.com/ja-jp/dotnet/csharp/roslyn-sdk/source-generators-overview)
-net6.0etstandard2.0</TargetFramework>
+    <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
 
   <ItemGroup>
