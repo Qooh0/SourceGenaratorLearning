@@ -1,12 +1,11 @@
-﻿namespace SourceGenaratorLearning
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            HelloFrom("Generated Code");
-        }
+﻿namespace SourceGenaratorLearning;
 
-        static partial void HelloFrom(string name);
+internal class Program
+{
+    static void Main(string[] args)
+    {
+        HelloFrom("Generated Code");
     }
+
+    static partial void HelloFrom(string name);
 }
